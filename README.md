@@ -1,4 +1,4 @@
-<h1>Bem vindo, me chamo *Davi Rodeghiero*!👋</h1>
+<h1 font-size="10px">Bem vindo, me chamo <b>Davi Rodeghiero!</b>👋</h1>
 - ✏️ Atualmente curso Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Front End
 - Atualmente focando em:
