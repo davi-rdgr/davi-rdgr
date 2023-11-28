@@ -24,4 +24,4 @@ Olá, me chamo **Davi Rodeghiero**!
 <a href="https://www.instagram.com/davirodeghiero/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
 
-
+![Snake animation](https://github.com/davi-rdgr/davi-rdgr/blob/output/github-contribution-grid-snake.svg)
