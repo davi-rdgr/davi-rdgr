@@ -1,7 +1,7 @@
-<h1 font-size="10px">Bem vindo, me chamo <b>Davi Rodeghiero!</b>👋</h1>
-- ✏️ Atualmente curso Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvedor Front End
-- Atualmente focando em:
+<h1 font-size="5px">Bem vindo, me chamo <b>Davi Rodeghiero!</b>👋</h1> <br>
+- ✏️ Atualmente curso Análise e Desenvolvimento de Sistemas<br>
+- 💻 Desenvolvedor Front End<br>
+- Atualmente focando em:<br>
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
