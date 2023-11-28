@@ -20,15 +20,15 @@ Olá, me chamo **Davi Rodeghiero**!
 <br>
 
 
-<a style="text-decoration:none;" href="https://www.linkedin.com/in/davi-souza-317496242/">
+<a href="https://www.linkedin.com/in/davi-souza-317496242/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a style="text-decoration:none;" href="davirdgrsouza.gmail.com">
+<a href="davirdgrsouza.gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a style="text-decoration:none;" href="https://www.instagram.com/davirodeghiero/">
+<a href="https://www.instagram.com/davirodeghiero/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
