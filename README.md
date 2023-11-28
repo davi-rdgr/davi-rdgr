@@ -3,7 +3,7 @@ Olá, me chamo **Davi Rodeghiero**!
 - 👨🏻‍💻 Curso Análise e Desenvolvimento de Sistemas.
 - ✏️ Focado em Desenvolvimento Web.
 
-- 🖥️ Experiência em:
+- 🖥️ Experiência com:
 
 <div style="display: inline">
           <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
