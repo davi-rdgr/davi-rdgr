@@ -15,10 +15,9 @@ Olá, me chamo **Davi Rodeghiero**!
           <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div> 
 
-
 - 📱 Redes Sociais:
 
-<div style="display: inline">
+<div style="display: block">
           &nbsp;<a href="https://www.linkedin.com/in/davi-souza-317496242/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
           </a>&nbsp;
