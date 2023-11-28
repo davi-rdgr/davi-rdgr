@@ -2,14 +2,15 @@
 - ✏️ Atualmente curso Análise e Desenvolvimento de Sistemas<br>
 - 💻 Desenvolvedor Front End<br>
 - Atualmente focando em:<br>
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
+<div display: inline> 
+          <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
+          <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
           
           
           
