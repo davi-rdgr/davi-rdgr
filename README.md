@@ -1,8 +1,8 @@
 <h1>Olá, me chamo Davi Rodeghiero</strong>!</h1>
 
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="davi-rdgr's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
+<div style="display: flex; flex-direction: row; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="davi-rdgr's Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
 </div>
 
 
@@ -18,19 +18,16 @@
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
-          
-          
 </div> 
 <br>
-- 📱 Redes Sociais:
+- 📱 **Redes Sociais**:
 <br>
 <br>
 
