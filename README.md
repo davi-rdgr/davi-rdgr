@@ -1,9 +1,9 @@
 <h1>Olá, me chamo Davi Rodeghiero</strong>!</h1>
 
-
-![davi-rdgr's Stats](https://github-readme-stats.vercel.app/api?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![davi-rdgr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
+<div style="display: flex; flex-direction: row; justify-content: center;">
+          ![davi-rdgr's Stats](https://github-readme-stats.vercel.app/api?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+          ![davi-rdgr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+</div>
 - 👨🏻‍💻 Curso **Análise e Desenvolvimento de Sistemas**.
 - ✏️ Focado em **Desenvolvimento Web.**
 
