@@ -12,7 +12,7 @@
 
 - 🖥️ **Experiência** com:
 
-<div style="display: inline">
+<div style="display: inline; background-color: red;">
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />        
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
