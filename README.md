@@ -9,7 +9,7 @@
 
 - 👨🏻‍💻 Curso **Análise e Desenvolvimento de Sistemas**.
 - ✏️ Focado em **Desenvolvimento Web.**
-
+<br>
 - 🎲 Assistente de **Administração de Banco de Dados** (4/5)
 - 👨🏻‍💻 Assistente de **Desenvolvimento de Sistemas** (4/16)
 - 💻 **Analista e Desenvolvedor de Sistemas** (4/20)
