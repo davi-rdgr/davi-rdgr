@@ -12,8 +12,7 @@
 <br>
 
 - 🎲 Assistente de **Administração de Banco de Dados** ✅✅
-- 👨🏻‍💻 Assistente de **Desenvolvimento de Sistemas** (4/16)
-- 💻 **Analista e Desenvolvedor de Sistemas** (4/20)
+- 👨🏻‍💻 Assistente de **Desenvolvimento de Sistemas** (6/16)
 
 - 🖥️ **Experiência** com:
 
