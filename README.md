@@ -30,8 +30,6 @@
 <br>
 
 - 📱 **Redes Sociais:** 
-<br>
-<br>
 
 
 <a href="https://www.linkedin.com/in/davi-rodeghiero-souza-317496242/">
