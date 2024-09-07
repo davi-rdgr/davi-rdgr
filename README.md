@@ -28,7 +28,8 @@
           <img width="40px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div> 
 <br>
-- 📱 **Redes Sociais:**
+
+- 📱 **Redes Sociais:** 
 <br>
 <br>
 
