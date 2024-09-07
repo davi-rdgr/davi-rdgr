@@ -7,11 +7,10 @@
 
 
 
-- 👨🏻‍💻 Curso **Análise e Desenvolvimento de Sistemas**. <br>
+- 👨🏻‍💻 Curso **Análise e Desenvolvimento de Sistemas**.
 - ✏️ Focado em **Desenvolvimento em Java.**
-<br>
 
-- 🎲 Assistente de **Administração de Banco de Dados** ✅✅ <br>
+- 🎲 Assistente de **Administração de Banco de Dados** ✅✅
 - 👨🏻‍💻 Assistente de **Desenvolvimento de Sistemas** (6/16)
 
 - 🖥️ **Experiência** com:
