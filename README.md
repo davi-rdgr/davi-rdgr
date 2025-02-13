@@ -1,8 +1,8 @@
 <h2> 👋 Olá, me chamo Davi Rodeghiero</strong>!</h2>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="davi-rdgr's Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-rdgr&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=davi-rdgr&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="davi-rdgr's Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-rdgr&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
 </div>
 
 
