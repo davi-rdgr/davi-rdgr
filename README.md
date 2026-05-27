@@ -9,7 +9,7 @@
 <br>
 
 - 👨🏻‍💻 Curso **Análise e Desenvolvimento de Sistemas**. <br> 
-- ✏️ Focado em **Desenvolvimento Front-End** e **Desenvolvimento Java.** <br>
+- ✏️ Focado em **Desenvolvimento Front-End**, **Mobile** e **Desenvolvimento Java.** <br>
 - 🎲 Assistente de **Administração de Banco de Dados** ✅✅ <br>
 - 👨🏻‍💻 Técnico em **Desenvolvimento de Sistemas** (15/16) 
           
