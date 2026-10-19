@@ -18,7 +18,6 @@
 - 🖥️ **Experiência** com:
 
 <div style="display: inline_block"><br>
-    <br>
     - Front-End
     <br>
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
